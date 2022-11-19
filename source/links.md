@@ -32,7 +32,7 @@ layout: page
     {
         "title": "tomato小窝",
         "link": "https://wakaba.tomato-aoarasi.com/",
-        "img": "https://hatsune.tomato-aoarasi.com/blog/image/head_icon.jpg",
+        "img": "https://www.tomato-aoarasi.com/static/image/avatar.jpg",
         "bio": "tomato，sukidayo❤~❤~"
     },
     {
