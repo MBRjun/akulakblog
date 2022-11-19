@@ -5,7 +5,7 @@ widgets:
         author: AkulaKirov
         author_title: 专业摸鱼人
         location: Sol III
-        avatar: /img/avatar.webp
+        avatar: /images/avatar.webp
         avatar_rounded: true
         social_links:
             Github:

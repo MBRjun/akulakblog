@@ -24,10 +24,22 @@ layout: page
 {% links %}
 [
     {
+        "title": "JR`s Blog",
+        "link": "https://blog.jason0743.best/",
+        "img": "https://avatars.githubusercontent.com/u/40999116",
+        "bio": "这里是JR的小屋喵"
+    },
+    {
+        "title": "tomato小窝",
+        "link": "https://wakaba.tomato-aoarasi.com/",
+        "img": "https://hatsune.tomato-aoarasi.com/blog/image/head_icon.jpg",
+        "bio": "tomato，sukidayo❤~❤~"
+    },
+    {
         "title": "Awblogu",
         "link": "https://blog.awbugl.top/",
         "img": "https://blog.awbugl.top/images/avatar.jpg",
-        "bio": " 啊...呜..."
+        "bio": "啊...呜..."
     },
     {
         "title": "BsBlog",

@@ -10,14 +10,14 @@ reprint: true
 外交态度：**乐于合作**
 
 <div>
-<img align="left" src="/img/about/Ethic_egalitarian.png">&nbsp;
-<img align="left" src="/img/about/Ethic_materialist.png">&nbsp;
-<img align="left" src="/img/about/Ethic_xenophile.png">
+<img align="left" src="/images/about/Ethic_egalitarian.png">&nbsp;
+<img align="left" src="/images/about/Ethic_materialist.png">&nbsp;
+<img align="left" src="/images/about/Ethic_xenophile.png">
 <br>
 <br>
-<img align="left" src="/img/about/Civic_idealistic_foundation.png">&nbsp;
-<img align="left" src="/img/about/Civic_shared_burden.png">&nbsp;
-<img align="left" src="/img/about/Civic_technocracy.png">
+<img align="left" src="/images/about/Civic_idealistic_foundation.png">&nbsp;
+<img align="left" src="/images/about/Civic_shared_burden.png">&nbsp;
+<img align="left" src="/images/about/Civic_technocracy.png">
 <br>
 <br>
 </div>
