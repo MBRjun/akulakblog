@@ -1,0 +1,166 @@
+version: 5.1.0
+variant: default
+logo: /favicon.ico
+head:
+    favicon: /favicon.ico
+    manifest:
+        name: 
+        short_name: Akula
+        start_url: 
+        theme_color: "#2bb9ff"
+        background_color: "#2d436f"
+        display: standalone
+        icons:
+            -
+                src: ''
+                sizes: ''
+                type: 
+bg:
+
+    open_graph:
+        title: 
+        type: blog
+        url: 
+        image: 
+        site_name: 
+        author: 
+        description: 
+        twitter_card: 
+        twitter_id: 
+        twitter_site: 
+        google_plus: 
+        fb_admins: 
+        fb_app_id: 
+    structured_data:
+        title: 
+        description: 
+        url: 
+        author: 
+        publisher: 
+        publisher_logo: 
+        image: 
+    meta:
+        - ''
+    rss: 
+navbar:
+    menu:
+        主页: /
+        归档: /archives
+        标签: /tags
+        友链: /links
+        关于: /about
+footer:
+    links:
+        Creative Commons:
+            icon: fab fa-creative-commons
+            url: https://creativecommons.org/
+        Attribution 4.0 International:
+            icon: fab fa-creative-commons-by
+            url: https://creativecommons.org/licenses/by/4.0/
+        GitHub:
+            icon: fab fa-github
+            url: https://github.com/ppoffice/hexo-theme-icarus
+article:
+    highlight:
+        theme: atom-one-dark
+        clipboard: true
+        fold: unfolded
+    readtime: true
+    update_time: true
+    licenses:
+        Creative Commons:
+            icon: fab fa-creative-commons
+            url: https://creativecommons.org/
+        'CC BY-NC-SA 4.0': 'https://creativecommons.org/licenses/by-nc-sa/4.0/'
+search:
+    type: insight
+    index_pages: true
+comment:
+    type: waline
+    server_url: https://waline-vercel-noyh5czir-akulakirov.vercel.app/
+    lang: zh-CN                                   # 可选填
+    locale:                                       # 可选填
+        placeholder: '批判一番'
+    emoji:                                        # 可选填
+        - '//unpkg.com/@waline/emojis@1.0.1/weibo'
+    dark: auto                                    # 可选填
+    meta: ["nick", "mail", "link"]                # 可选填
+    required_meta: []                             # 可选填
+    login: enable                                 # 可选填
+    word_limit: 0                                 # 可选填
+    page_size: 10                                 # 可选填
+    image_uploader: false                         # 可选填
+    highlighter: true                             # 可选填
+    tex_renderer: false                           # 可选填
+    search: false                                 # 可选填
+    pageview: false                               # 可选填
+    comment: false                                # 可选填  
+    copyright: true                               # 可选填
+sidebar:
+    left:
+        sticky: false
+    right:
+        sticky: false
+widgets:
+    -
+        position: left
+        type: profile
+        author: AkulaKirov
+        author_title: 专业摸鱼人
+        location: Sol III
+        avatar: /img/avatar.webp
+        avatar_rounded: true
+        social_links:
+            Github:
+                icon: fab fa-github
+                url: https://github.com/AkulaKirov
+    -
+        position: left
+        type: categories
+    -
+        position: left
+        type: recent_posts
+    -
+        position: left
+        type: archives
+    -
+        position: left
+        type: tags
+        order_by: name
+        amount: 
+        show_count: true
+plugins:
+    animejs: true
+    back_to_top: true
+    baidu_analytics:
+        tracking_id: 
+    bing_webmaster:
+        tracking_id: 
+    busuanzi: false
+    cnzz:
+        id: 
+        web_id: 
+    cookie_consent:
+        type: info
+        theme: edgeless
+        static: false
+        position: bottom-left
+        policyLink: https://www.cookiesandyou.com/
+    gallery: true
+    google_analytics:
+        tracking_id: 
+    hotjar:
+        site_id: 
+    katex: false
+    mathjax: false
+    outdated_browser: false
+    progressbar: false
+    statcounter:
+        project: 
+        security: 
+    twitter_conversion_tracking:
+        pixel_id: 
+providers:
+    cdn: loli
+    fontcdn: loli
+    iconcdn: loli

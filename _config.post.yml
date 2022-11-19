@@ -1,0 +1,19 @@
+widgets:
+    -
+        position: left
+        type: profile
+        author: AkulaKirov
+        author_title: 专业摸鱼人
+        location: Sol III
+        avatar: /img/avatar.webp
+        avatar_rounded: true
+        social_links:
+            Github:
+                icon: fab fa-github
+                url: https://github.com/AkulaKirov
+    -
+        position: left
+        type: toc
+        index: true
+        collapsed: true
+        depth: 3
