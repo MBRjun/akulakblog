@@ -1,6 +1,6 @@
 ---
 title: 关于
-layout: abouts
+layout: page
 reprint: true
 ---
 {% meting "415793340" "netease" "song" %}
