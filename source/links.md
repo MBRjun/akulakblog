@@ -88,6 +88,12 @@ layout: page
         "link": "https://blog.awa.moe/",
         "img": "https://avatars.githubusercontent.com/u/17957399",
         "bio": "IN PURSUIT OF FREEDOM"
+    },
+    {
+        "title": "MBRjun-Blog",
+        "link": "https://www.mbrjun.cn/",
+        "img": "https://cos.mbrjun.cn/PICS/LG4v3avatar144px.jpg",
+        "des": "我们生活在大地上，但我们的梦想超越天空"
     }
 ]
 {% endlinks %}
