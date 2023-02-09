@@ -6,6 +6,8 @@ on:
       - master # default branch
   workflow_dispatch:
 
+permissions: write-all
+
 jobs:
   pages:
     runs-on: ubuntu-latest
@@ -31,3 +33,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+Give 
